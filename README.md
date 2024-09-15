@@ -1,7 +1,6 @@
 ## Hi there 👋    
 <div id="title" align=center>  
  
-An idealist
 ![Modern C++ template][github-sub-title:img]  
 
  [✍🏻 Blog](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)
@@ -11,6 +10,8 @@ An idealist
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-zf&show_icons=true&theme=transparent&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-zf&layout=compact&theme=transparent&hide_border=true)|
 | ------------- | ------------- |
 </div>  
+
+![头像](image/头像.jpg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Felix-zf.  
 
