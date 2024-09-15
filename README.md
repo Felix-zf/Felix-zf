@@ -10,10 +10,13 @@
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-zf&show_icons=true&theme=transparent&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-zf&layout=compact&theme=transparent&hide_border=true)|
 | ------------- | ------------- |
 </div>  
+![头像](image/头像.jpg)  
 
-![头像](image/头像.jpg)
+![Visitor Count](https://profile-counter.glitch.me/Felix-zf/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Felix-zf.  
+
+
 
 <!--
 **Felix-zf/Felix-zf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
