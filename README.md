@@ -11,7 +11,7 @@
 | ------------- | ------------- |
 </div>   
 
-![头像](image/头像.jpg)  
+![头像](image/pic.jpg)  
 
 ![Visitor Count](https://profile-counter.glitch.me/Felix-zf/count.svg)
 
