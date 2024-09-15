@@ -1,4 +1,3 @@
-<div id="title" align=center>
 ## Hi there 👋  
 An idealist
 ![Modern C++ template][github-sub-title:img]  
@@ -11,7 +10,6 @@ An idealist
 | ------------- | ------------- |
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Felix-zf.  
-</div>
 
 <!--
 **Felix-zf/Felix-zf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
