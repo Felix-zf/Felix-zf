@@ -1,6 +1,6 @@
 ## Hi there 👋  
 An idealist
-<div id="title" align=center>
+![Modern C++ template][github-sub-title:img]
  [✍🏻 Blog](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)
