@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/hobby-cooking-red)
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)  
-<img align="left" alt="GIF" src="./image/code.gif" width="360" height="100%" />
+<img align="left" alt="GIF" src="./image/code.gif" width="410" height="100%" />
 
 <img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />  
 
