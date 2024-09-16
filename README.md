@@ -3,12 +3,7 @@
  
 ![Modern C++ template][github-sub-title:img]  
 
- [✍🏻 Blog](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)
-### Tech Stack
-![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)
-
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-zf&show_icons=true&theme=transparent&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-zf&layout=compact&theme=transparent&hide_border=true)|
-| ------------- | ------------- |
+ [✍🏻 Blog](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)  
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
@@ -17,6 +12,11 @@
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
+### Tech Stack
+![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)
+
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-zf&show_icons=true&theme=transparent&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-zf&layout=compact&theme=transparent&hide_border=true)|
+| ------------- | ------------- |
 </div>   
 
 ![Welcome](image/2.jpg)  
