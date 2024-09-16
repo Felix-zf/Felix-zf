@@ -20,11 +20,12 @@
  
 
 ![Welcome](image/2.jpg)  
+</div>   
 
 ![Visitor Count](https://profile-counter.glitch.me/Felix-zf/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Felix-zf.  
-</div>  
+ 
 
 
 <!--
