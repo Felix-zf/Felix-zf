@@ -11,7 +11,7 @@
 | ------------- | ------------- |
 </div>   
 
-![Welcome](image/1.jpg)  
+![Welcome](image/pic.jpg)  
 
 ![Visitor Count](https://profile-counter.glitch.me/Felix-zf/count.svg)
 
