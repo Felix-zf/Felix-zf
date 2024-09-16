@@ -3,7 +3,7 @@
  
 ![Modern C++ template][github-sub-title:img]  
 
- [✍🏻 Blog](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)  
+[✍🏻 About](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)  
 
 [![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Felix%E3%81%AEblog-yello)](https://blog-gold-pi-30.vercel.app/)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Felix7200GT)
