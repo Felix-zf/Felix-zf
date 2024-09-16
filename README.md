@@ -13,7 +13,8 @@
 ![](https://img.shields.io/badge/character-optimistic-red) 
 ![](https://img.shields.io/badge/hobby-cooking-red)
 ### Tech Stack
-![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)
+![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)  
+<img align="right" alt="GIF" src="./image/code.gif" width="430" height="100%" />
 
 <img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />  
 
