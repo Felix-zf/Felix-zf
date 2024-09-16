@@ -5,12 +5,12 @@
 
  [✍🏻 Blog](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)  
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/qiu-ming-shan-chi-dou-fu)
+[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Felix7200GT)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
+![](https://img.shields.io/badge/character-optimistic-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)
