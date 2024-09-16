@@ -5,7 +5,7 @@
 
  [✍🏻 Blog](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)  
 
-[![博客](https://img.shields.io/badge/%E6%96%87%E7%AB%A0-Felix%E3%81%AEblog-yello)](https://blog-gold-pi-30.vercel.app/)
+[![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Felix%E3%81%AEblog-yello)](https://blog-gold-pi-30.vercel.app/)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Felix7200GT)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
