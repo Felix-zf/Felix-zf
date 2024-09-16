@@ -13,10 +13,11 @@
 ![](https://img.shields.io/badge/character-optimistic-red) 
 ![](https://img.shields.io/badge/hobby-cooking-red)
 ### Tech Stack
-![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)  
-<img align="middle" alt="GIF" src="./image/code.gif" width="430" height="100%" />
+![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)   
 
-<img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />  
+<img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />    
+
+<img align="middle" alt="GIF" src="./image/code.gif" width="430" height="100%" />
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-zf&show_icons=true&theme=transparent&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-zf&layout=compact&theme=transparent&hide_border=true)|
 | ------------- | ------------- |
