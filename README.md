@@ -9,15 +9,15 @@
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Felix7200GT)  
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/career-research-yellow) 
-![](https://img.shields.io/badge/character-optimistic-red) 
-![](https://img.shields.io/badge/hobby-cooking-red)  
+![](https://img.shields.io/badge/career-Research-yellow) 
+![](https://img.shields.io/badge/character-Optimistic-red) 
+![](https://img.shields.io/badge/hobby-Cooking-red)  
 [![steam](https://img.shields.io/badge/game-Steam-blue)](https://steamcommunity.com/id/felix_zf/)
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)   
 <img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />    
 
-<img align="middle" alt="GIF" src="./image/code.gif" width="430" height="100%" />  
+<img align="middle" alt="GIF" src="./image/code.gif" width="460" height="100%" />  
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-zf&show_icons=true&theme=transparent&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-zf&layout=compact&theme=transparent&hide_border=true)|
 | ------------- | ------------- |
