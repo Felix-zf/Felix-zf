@@ -7,7 +7,7 @@
 
 [![博客](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Felix%E3%81%AEblog-yello)](https://blog-gold-pi-30.vercel.app/)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Felix7200GT)  
-[![steam](https://img.shields.io/badge/game-Steam)](https://steamcommunity.com/id/felix_zf/)
+[![steam](https://img.shields.io/badge/game-Steam-blue)](https://steamcommunity.com/id/felix_zf/)
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/career-research-yellow) 
