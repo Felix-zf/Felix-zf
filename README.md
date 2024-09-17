@@ -5,14 +5,14 @@
 
 [✍🏻 About](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)  
 
-[![blog](https://img.shields.io/badge/blog-Felix%E3%81%AEblog-yello)](https://blog-gold-pi-30.vercel.app/)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Felix7200GT)  
-[![steam](https://img.shields.io/badge/game-Steam-red)](https://steamcommunity.com/id/felix_zf/)  
+[![blog](https://img.shields.io/badge/Blog-Felix%E3%81%AEblog-yello)](https://blog-gold-pi-30.vercel.app/)
+[![youtube](https://img.shields.io/badge/Video-YouTube-red)](https://www.youtube.com/@Felix7200GT)  
+[![steam](https://img.shields.io/badge/Game-Steam-red)](https://steamcommunity.com/id/felix_zf/)  
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/career-Research-yellow) 
-![](https://img.shields.io/badge/character-Optimistic-red) 
-![](https://img.shields.io/badge/hobby-Cooking-red)  
+[![modern cpp](https://img.shields.io/badge/Code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+![](https://img.shields.io/badge/Career-Research-yellow) 
+![](https://img.shields.io/badge/Character-Optimistic-red) 
+![](https://img.shields.io/badge/Hobby-Cooking-red)  
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)   
 <img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />  
