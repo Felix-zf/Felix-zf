@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/career-Research-yellow) 
 ![](https://img.shields.io/badge/character-Optimistic-red) 
 ![](https://img.shields.io/badge/hobby-Cooking-red)  
-[![steam](https://img.shields.io/badge/game-Steam-yellow)](https://steamcommunity.com/id/felix_zf/)
+[![steam](https://img.shields.io/badge/game-Steam-red)](https://steamcommunity.com/id/felix_zf/)
 ### Tech Stack
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)   
 <img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />    
