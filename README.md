@@ -17,12 +17,11 @@
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)   
 <img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />  
 
-<img align="middle" alt="GIF" src="./image/code.gif" width="430" height="100%" />     
+<img align="center" alt="GIF" src="./image/code.gif" width="360" height="100%" />    
+<img align="right" width="460" src="https://streak-stats.demolab.com?user=Felix-zf&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />  
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-zf&show_icons=true&theme=transparent&hide_border=true)| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-zf&layout=compact&theme=transparent&hide_border=true)|
 | ------------- | ------------- |  
-
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Felix-zf&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />  
 
 ![Welcome](image/2.jpg)  
 </div>   
