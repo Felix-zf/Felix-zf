@@ -24,7 +24,15 @@
 
 <img align="center" width="430" src="https://streak-stats.demolab.com?user=Felix-zf&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />   
 
-![Welcome](image/2.jpg)  
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Felix-zf&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
+<img src="https://api.star-history.com/svg?repos=Felix-zf/tkintertools,Felix-zf/Intelligent-Magic-Cube,Felix-zf/Chess,Felix-zf/Felix-zf,Felix-zf/tkintertools-demos,Felix-zf/Fucking-Code&type=Date&theme=dark" />   
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
+
+![Lover](image/2.jpg)  
 </div>   
 
 ![Visitor Count](https://profile-counter.glitch.me/Felix-zf/count.svg)  
