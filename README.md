@@ -33,20 +33,17 @@
 <!-- https://github.com/star-history/star-history -->
 <img src="https://api.star-history.com/svg?repos=Felix-zf/tkintertools,Felix-zf/Intelligent-Magic-Cube,Felix-zf/Chess,Felix-zf/Felix-zf,Felix-zf/tkintertools-demos,Felix-zf/Fucking-Code&type=Date&theme=dark" />   
 
+PS: 💖💖💖Have a good time every day!ヾ(≧▽≦*)o🎄🎈🎈  
+
+![blessing](image/2.jpg)    
+
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
-
-PS: 💖💖💖Have a good time every day!ヾ(≧▽≦*)o🎄🎈🎈  
-
-![blessing](image/2.jpg)  
 </div>   
 
-![Visitor Count](https://profile-counter.glitch.me/Felix-zf/count.svg)  
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Felix-zf.  
- 
 
 
 <!--
