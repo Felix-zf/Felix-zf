@@ -2,7 +2,8 @@
 ### 研究员—Felix | 秋名山吃豆腐
 
 热爱技术、享受生活。兴趣方向：哲学&CS。喜欢参与一些开源项目的讨论。  
-掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+在CSSCI、SCI、EI等核心学术期刊公开发表学术、教研论文5篇，出版教材1部，主持、参与科研课题2项。  
+掘金优秀作者，发表了 30 篇技术文章，20K阅读。
 
 <div id="title" align=center>  
 
@@ -20,7 +21,9 @@
 ![](https://img.shields.io/badge/Career-Research-yellow) 
 ![](https://img.shields.io/badge/Character-Optimistic-red) 
 ![](https://img.shields.io/badge/Hobby-Cooking-red)  
+
 ### Tech Stack
+
 ![](https://skillicons.dev/icons?i=c,css,html,java,js,linux,py,mysql,react)   
 <img src="https://counter.imalun.com/Felix-zf-github?theme=rule34" alt="Felix-zf" />  
 <!-- https://moe-counter.glitch.me/ -->
