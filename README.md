@@ -12,7 +12,7 @@
 
 [✍🏻 About](https://felix-zf.github.io/) · [📧 Contact](mailto:zqmnyuhi@gmail.com)  
 
-[![blog](https://img.shields.io/badge/Blog-Felix%E3%81%AEblog-yello)](https://blog-gold-pi-30.vercel.app/)
+[![blog](https://img.shields.io/badge/博客-Felix%E3%81%AEblog-yello)](https://blog-gold-pi-30.vercel.app/)
 [![youtube](https://img.shields.io/badge/Video-YouTube-red)](https://www.youtube.com/@Felix7200GT)  
 [![steam](https://img.shields.io/badge/Game-Steam-red)](https://steamcommunity.com/id/felix_zf/)
 [![bilibili](https://img.shields.io/badge/Video-Bilibili-red)](https://space.bilibili.com/152084251?spm_id_from=333.1007.0.0) 
