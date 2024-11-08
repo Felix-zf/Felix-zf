@@ -4,7 +4,7 @@
 - 😄 热爱技术、享受生活。兴趣方向：哲学、料理&CS。喜欢参与一些开源项目的讨论。  
 - 🌱 在CSSCI、SCI、EI等核心学术期刊公开发表学术、教研论文16篇，实用新型专利3项，主持、参与科研课题2项。  
 - 🔭 访问学者 & 高级研究员 @ SCCEI Standford U，掘金优秀作者，发表了30篇技术文章，20K阅读。
-- 🍰 欢迎访问我的 [电商网站](eva.felixshops.top) ,淘宝店铺：[秋名山吃豆腐店铺]，谢谢支持。
+- 🍰 欢迎访问我的 [电商网站](eva.felixshops.top) ,淘宝店铺：【秋名山吃豆腐店铺】，谢谢支持。
 <div id="title" align=center>  
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
