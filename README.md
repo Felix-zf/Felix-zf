@@ -43,8 +43,10 @@
 
 PS: 💖💖💖Have a good time every day!ヾ(≧▽≦*)o🎄🎈🎈  
 
+<p align = "center">   
 <img width="382" src="image/1.jpg" />   
 <img width="330" src="image/2.jpg" />
+</p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
