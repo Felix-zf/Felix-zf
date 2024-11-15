@@ -5,6 +5,7 @@
 - 🌱 在CSSCI、SCI、EI等核心学术期刊公开发表学术、教研论文16篇，实用新型专利3项，主持、参与科研课题2项。  
 - 🔭 访问学者 & 高级研究员 @ SCCEI Standford U，掘金优秀作者，发表了30篇技术文章，20K阅读。
 - 🍰 欢迎访问我的 [👜·电商网站](https://eva.felixshops.top)，淘宝店铺:【秋名山吃豆腐店铺】，谢谢支持❤️。
+- ✨ 电报频道:[Felix热点新闻](t.me/felixnewsGTs), 带你分享世界各地热点新闻。
 <div id="title" align=center>  
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -44,7 +45,7 @@
 PS: 💖💖💖Have a good time every day!ヾ(≧▽≦*)o🎄🎈🎈  
 
 <p align = "center">   
-<img width="382" src="image/1.jpg" />   
+<img width="383" src="image/1.jpg" />   
 <img width="330" src="image/2.jpg" />
 </p>
 
